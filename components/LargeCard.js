@@ -7,6 +7,7 @@ function LargeCard({ img, title, description, buttonText }) {
             <div class='relative h-96 min-w-[300ox]'>
                 <Image
                     src={img}
+                    alt='Card Cover'
                     layout='fill'
                     objectFit='cover'
                     class='filter grayscale rounded-2xl'

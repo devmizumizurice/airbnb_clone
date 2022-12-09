@@ -6,6 +6,7 @@ function Banner() {
         <div class='relative h-[300px] sm:h-[400px] lg:h-[500] xl:h-[600px] 2xl:h-[700px]'>
             <Image
                 src='https://www.pakutaso.com/shared/img/thumb/neruneruPAR55463.jpg'
+                alt='Banner'
                 layout='fill'
                 objectFit='cover'
                 class='filter grayscale blur-md'
