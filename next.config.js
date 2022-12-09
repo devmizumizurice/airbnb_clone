@@ -6,10 +6,7 @@ const nextConfig = {
       'links.papareact.com',
       'www.pakutaso.com'
     ],
-  },
-  env: {
-    googlemap_key: 'AIzaSyBo6xPfjqhtnXp5Wl2guaROyvF5w3k9z8g'
-  },
+  }
 }
 
 module.exports = nextConfig
