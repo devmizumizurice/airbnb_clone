@@ -33,7 +33,7 @@ function Map({ searchResults }) {
 
         </div>
 
-    const APIKEY = '';
+    const APIKEY = process.env.googlemap_key;
 
     return (
         <div className='w-full h-full'>
